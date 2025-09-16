@@ -1,19 +1,19 @@
 ### Olá 👋
 
 ###### Sobre a Stephany
-Estudante de Desenvolvimento Front-End na EBAC, com experiência em projetos web utilizando HTML, CSS, JavaScript, TypeScript, Bootstrap, SASS, jQuery, Vue.js e noções de React e Angular. Criando sites, newsletters responsivas, menus interativos e formulários dinâmicos.
+Estudante de Desenvolvimento Front-End na EBAC, com experiência em projetos web utilizando HTML, CSS, JavaScript, TypeScript, Bootstrap, SASS, jQuery, Vue.js e noções de React e Angular. Criação de sites, newsletters responsivas, menus interativos e formulários dinâmicos.
 
 ### Detalhes
 
-[![Stephany's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanyfabiennecampos&show_icons=true&theme=dark)](https://github.com/stephanyfabiennecampos)
+[![Stephany's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephanycampos&show_icons=true&theme=dark)](https://github.com/stephanycampos)
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephanyfabiennecampos&repo=seu-repo-exemplo&theme=dark)](https://github.com/stephanyfabiennecampos/seu-repo-exemplo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephanycampos&repo=seu-repo-exemplo&theme=dark)](https://github.com/stephanycampos/seu-repo-exemplo)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanyfabiennecampos&layout=compact)](https://github.com/stephanyfabiennecampos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephanycampos&layout=compact)](https://github.com/stephanycampos)
 
 ### Contatos
 
