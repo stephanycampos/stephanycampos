@@ -9,7 +9,7 @@ Estudante de Desenvolvimento Front-End na EBAC, com experiência em projetos web
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephanycampos&repo=seu-repo-exemplo&theme=dark)](https://github.com/stephanycampos/seu-repo-exemplo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=stephanycampos&repo=AULA_EBAC&theme=dark)](https://github.com/stephanycampos/AULA_EBAC)
 
 ### Linguagens utilizadas
 
